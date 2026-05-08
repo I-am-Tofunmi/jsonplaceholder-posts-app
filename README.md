@@ -3,7 +3,7 @@
 A single-page web app that fetches and displays posts from the JSONPlaceholder API, with search filtering and loading, error and empty states.
 
 ## 🔗 Live Demo
-
+https://i-am-tofunmi.github.io/jsonplaceholder-posts-app/
 
 ## ✨ Features
 - Fetches 100 posts from JSONPlaceholder API
